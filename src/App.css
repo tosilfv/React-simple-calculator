@@ -1,0 +1,39 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+button {
+  display: flex;
+  justify-content: center;
+  width: 50px;
+}
+td {
+  background-color: grey;
+  border: 3px solid black;
+  border-radius: 10px;
+}
+.black {
+  background-color: black;
+}
+.calculator {
+  background-color: black;
+  border: 7px solid black;
+  border-radius: 10px;
+  box-shadow: 0 0 500px white, 0 0 500px white;
+}
+.screen {
+  background-color: lightgrey;
+  color: black;
+  display: flex;
+  font-size: 2rem;
+  font-weight: bold;
+  justify-content: flex-end;
+  margin: 5px 7px;
+  overflow: hidden;
+  padding-right: 5px;
+  text-overflow: clip;
+  white-space: nowrap;
+  width: 223px;
+}

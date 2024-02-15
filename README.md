@@ -32,7 +32,7 @@ Styles are created with CSS.
 
 Calculator does not show very big or very small numbers correctly.
 <br />
-You cannot add decimal numbers.
+You cannot input decimal numbers.
 
 ## Known errors
 
